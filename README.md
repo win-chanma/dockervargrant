@@ -1,2 +1,2 @@
 # dockervargrant
-vagrantのubuntuにdockerをinstallするscriptとvagrantfile
+ubuntu18.04にdockerをinstallするscriptとvagrantfile
